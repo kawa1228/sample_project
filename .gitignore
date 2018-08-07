@@ -1,0 +1,8 @@
+/node_modules
+/public
+mix-manifest.json
+npm-debug.log
+yarn-error.log
+.DS_Store
+Thumbs.d
+README.mdb
